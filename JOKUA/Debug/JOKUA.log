@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (JOKUA.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+sdlHasieratu.obj : error LNK2019: símbolo externo _TTF_Init sin resolver al que se hace referencia en la función _SDLHasi
+sdlHasieratu.obj : error LNK2019: símbolo externo _TTF_OpenFontIndex sin resolver al que se hace referencia en la función _textuaGaitu
+sdlHasieratu.obj : error LNK2019: símbolo externo _TTF_RenderText_Blended sin resolver al que se hace referencia en la función _textuaIdatzi
+sdlHasieratu.obj : error LNK2019: símbolo externo _TTF_CloseFont sin resolver al que se hace referencia en la función _textuaDesgaitu
+sdlHasieratu.obj : error LNK2019: símbolo externo _TTF_Quit sin resolver al que se hace referencia en la función _berrabiarazi
+C:\Users\aitor\OneDrive\Escritorio\Mondragon\1ºSeihilabetea\PBL\KODIGOA\JOKUA ORIGINAL\JOKUA\Debug\JOKUA_ORIGINAL.exe : fatal error LNK1120: 5 externos sin resolver
